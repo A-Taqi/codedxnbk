@@ -7,6 +7,6 @@
 1. Noor Alrushaid
 2. Ali Aljadi
 3. Ahmed Mandy
-4. Mohammed Sheshtar
+4. Mohammed sheshtar
 5. Misk Al-Dukhi
 6. Abdulwahab Al-Senan
