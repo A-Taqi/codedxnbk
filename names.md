@@ -1,5 +1,6 @@
 # Instructors
 * Ali Taqi
+* Majed Alshuwaiee
 
 # Students
 1. Noor Alrushaid
